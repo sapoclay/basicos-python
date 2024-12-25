@@ -38,3 +38,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 9](./Ejercicio-9)
 
 - Crear una lista de números pares del 1 al 20 usando un bucle for.
+
+## [Ejericio 10](./Ejercicio-10)
+
+- Calcular el factorial de un número usando un bucle while.
