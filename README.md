@@ -23,10 +23,14 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 
 - Crear una lista de números del 1 al 10 y calcular la suma.
 
-## [Ejercico 6](./Ejercicio-6/)
+## [Ejercico 6](./Ejercicio-6)
 
 - Crear una función que devuelva el cuadrado de un número introducido por el usuario.
 
-## [Ejercicio 7](./Ejercicio-7/)
+## [Ejercicio 7](./Ejercicio-7)
 
-- Crear un diccionario con tres pares clave-valor
+- Crear un diccionario con tres pares clave-valor.
+
+## [Ejercicio 8](./Ejercicio-8)
+
+- Verificar si un número es positivo, negativo o cero.
