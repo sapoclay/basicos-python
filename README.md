@@ -66,3 +66,11 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 16](./Ejercicio-16)
 
 - Escribir una función para verificar si una cadena es un palíndromo.
+
+## [Ejercicio 17](./Ejercicio-17)
+
+- Encontrar la longitud de la palabra más larga en una lista.
+
+## [Ejercicio 18](./Ejercicio-18)
+
+- Usar un bucle para imprimir la secuencia de Fibonacci hasta el décimo término.
