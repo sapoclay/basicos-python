@@ -74,3 +74,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 18](./Ejercicio-18)
 
 - Usar un bucle para imprimir la secuencia de Fibonacci hasta el décimo término.
+
+## [Ejercicio 19](./Ejercicio-19)
+
+- Crear un diccionario para contar la cantidad de veces que aparece cada carácter en una cadenauna cadena.
