@@ -26,3 +26,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercico 6](./Ejercicio-6/)
 
 - Crear una función que devuelva el cuadrado de un número introducido por el usuario.
+
+## [Ejercicio 7](./Ejercicio-7/)
+
+- Crear un diccionario con tres pares clave-valor
