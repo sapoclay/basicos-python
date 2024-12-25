@@ -58,3 +58,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 14](./Ejercicio-14)
 
 - Usar un bucle para imprimir un patrón de estrellas que forme un triángulo simpe, uno centrado y otro invertido.
+
+## [Ejercicio 15](./Ejercicio-15)
+
+- Encontrar la suma de todos los números impares entre 1 y 50.
