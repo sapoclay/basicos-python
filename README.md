@@ -86,3 +86,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 21](./Ejercicio-21)
 
 - Crear un bucle anidado para imprimir una tabla de multiplicar para los números del 1 al 9.
+
+## [Ejercicio 22](./Ejercicio-22)
+
+- Escribir un programa que encuentre el segundo número más grande en una lista.
