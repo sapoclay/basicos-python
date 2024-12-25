@@ -34,3 +34,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 8](./Ejercicio-8)
 
 - Verificar si un número es positivo, negativo o cero.
+
+## [Ejercicio 9](./Ejercicio-9)
+
+- Crear una lista de números pares del 1 al 20 usando un bucle for.
