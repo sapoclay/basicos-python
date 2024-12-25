@@ -21,4 +21,8 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 
 ## [Ejercicio 5](./Ejercicio-5)
 
-- Crear una lista de números del 1 al 10 y calcular la suma
+- Crear una lista de números del 1 al 10 y calcular la suma.
+
+## [Ejercico 6](./Ejercicio-6/)
+
+- Crear una función que devuelva el cuadrado de un número introducido por el usuario.
