@@ -42,3 +42,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejericio 10](./Ejercicio-10)
 
 - Calcular el factorial de un número usando un bucle while.
+
+## [Ejercicio 11](./Ejercicio-11)
+
+- Invertir una cadena de texto usando un bucle for.
