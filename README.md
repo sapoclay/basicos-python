@@ -50,3 +50,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 12](./Ejercicio-12)
 
 - Contar el número de vocales en una cadena de texto.
+
+## [Ejercicio 13](./Ejercicio-13)
+
+- Encontrar el número máximo en una lista sin usar funciones incorporadas.
