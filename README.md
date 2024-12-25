@@ -46,3 +46,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 11](./Ejercicio-11)
 
 - Invertir una cadena de texto usando un bucle for.
+
+## [Ejercicio 12](./Ejercicio-12)
+
+- Contar el número de vocales en una cadena de texto.
