@@ -18,3 +18,7 @@ Ejercicios básicos Python (para empezar por algún sitio)
 
 - Escribir un programa que pregunte al usuario una cantidad a invertir, el interés porcentual anual y el número de años, 
 y muestre por pantalla el capital obtenido en la inversión redondeado con dos decimales.
+
+## [Ejercicio 5](./Ejercicio-5)
+
+- Crear una lista de números del 1 al 10 y calcular la suma
