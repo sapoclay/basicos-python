@@ -62,3 +62,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 15](./Ejercicio-15)
 
 - Encontrar la suma de todos los números impares entre 1 y 50.
+
+## [Ejercicio 16](./Ejercicio-16)
+
+- Escribir una función para verificar si una cadena es un palíndromo.
