@@ -82,3 +82,7 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 20](./Ejercicio-20)
 
 - Escribe un programa que imprima los números del 1 al 30, pero para múltiplos de 3 imprima “Tres”, para múltiplos de 5 imprima “Cinco” y para múltiplos de ambos imprima “Tres yimprima “Tres”, para múltiplos de 5 imprima “Cinco” y para múltiplos de ambos imprima “Tres y Cinco”.
+
+## [Ejercicio 21](./Ejercicio-21)
+
+- Crear un bucle anidado para imprimir una tabla de multiplicar para los números del 1 al 9.
