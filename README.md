@@ -90,3 +90,19 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 22](./Ejercicio-22)
 
 - Escribir un programa que encuentre el segundo número más grande en una lista.
+
+## [Ejercicio 23](./Ejercicio-23)
+
+- Escribir un programa para crear un cronómetro en la terminal.
+
+## [Ejercicio 24](./Ejercicio-24)
+
+- Escribir un programa para crear una calculadora en la terminal. Esta permitirá sumar, restar, multiplicar, dividir, potencia, y raíz cuadrada.
+
+## [Ejercicio 25](./Ejercicio-25)
+
+- Escribir un programa para crear un cronómetro con interfaz gráfica creada con tkinter.
+
+## [Ejercicio 26](./Ejercicio-26)
+
+- Escribir un programa para crear una calculadora con interfaz gráfica creada con tkinter.
