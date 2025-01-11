@@ -106,3 +106,19 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 26](./Ejercicio-26)
 
 - Escribir un programa para crear una calculadora con interfaz gráfica creada con tkinter.
+
+## [Ejercicio 27](./Ejercicio-27)
+
+- Un programa que encuentre todas las direcciones de correo electrónico en una cadena utilizando expresiones regulares.
+
+## [Ejercicio 28](./Ejercicio-28)
+
+- Implementa un generador que produzca los números 10 primeros números de la secuencia Fibonacci.
+
+## [Ejercicio 29](./Ejercicio-29)
+
+- Crear un decorador que mida el tiempo de ejecución de una función.
+
+## [Ejercicio 30](./Ejercicio-30)
+
+- Escribir un programa que lea un archivo y maneje situaciones donde el archivo no exista.
