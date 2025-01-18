@@ -122,3 +122,8 @@ y muestre por pantalla el capital obtenido en la inversión redondeado con dos d
 ## [Ejercicio 30](./Ejercicio-30)
 
 - Escribir un programa que lea un archivo y maneje situaciones donde el archivo no exista.
+
+## [Ejercicio 31](./Ejercicio-31)
+
+- Escribir un programa realice un control de stock de un almacén, permitiendo Añadir productos, registrar entrada de productos, 
+registrar salida de productos, mostrar inventario y comprobar el stock mínimo de cada producto del almacén.
